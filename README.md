@@ -3,7 +3,7 @@ Progress on handling data.
 
 # W3School Excel Tutorial
 As part of my endeavor to enhance my skills in handling data, I have finished the W3School free Excel tutorial.
-![image alt]()
+![image alt](https://github.com/aaliyeah/Learnings/blob/40f3fec42a4d9a15b99df6551262c92649b10f90/W3School%20Excel.jpg)
 
 This tutorial encompasses the fundamentals of Excel.
 - EXCEL TUTORIAL
