@@ -3,37 +3,24 @@ Progress on handling data.
 
 # W3School Excel Tutorial
 As part of my endeavor to enhance my skills in handling data, I have finished the W3School free Excel tutorial.
+
 ![image alt](https://github.com/aaliyeah/Learnings/blob/40f3fec42a4d9a15b99df6551262c92649b10f90/W3School%20Excel.jpg)
+![image alt](https://github.com/aaliyeah/Learnings/blob/e03b15a34587c707384467ec027607409acc96d1/Progress.jpg)
 
 This tutorial encompasses the fundamentals of Excel.
 - EXCEL TUTORIAL
 
-HOME, Introduction
-Excel Get Started
-Excel Overview
-Excel Syntax
-Excel Ranges
-Excel Fill
-Excel Move Cells
-Excel Add Cells
-Excel Delete Cells
-Excel Undo Redo
-Excel Formulas
-Excel Relative Reference
-Excel Absolute Reference
-Excel Arithmetic Operators
-Excel Parentheses
-Excel Functions
+Home, Introduction, Get Started, Overview, Syntax, Ranges, Fill, Move Cells, Add Cells, Delete Cells, Undo Redo, Formulas, Relative Reference, Absolute Reference, Arithmetic Operators, Parentheses, Functions
 
-EXCEL FORMATTING
-Excel Formatting
-Excel Format Painter
-Excel Format Colors
-Excel Format Fonts
-Excel Format Borders
-Excel Format Numbers
-Excel Format Grids
-Excel Format Settings
+FORMATTING
+Formatting
+Format Painter
+Format Colors
+Format Fonts
+Format Borders
+Format Numbers
+Format Grids
+Format Settings
 
 EXCEL DATA ANALYSIS
 Excel Sort
