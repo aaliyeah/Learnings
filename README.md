@@ -7,8 +7,8 @@ As part of my endeavor to enhance my skills in handling data, I have finished th
 
 This tutorial encompasses the fundamentals of Excel.
 - EXCEL TUTORIAL
-Excel HOME
-Excel Introduction
+
+HOME, Introduction
 Excel Get Started
 Excel Overview
 Excel Syntax
