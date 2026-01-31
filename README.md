@@ -12,47 +12,20 @@ This tutorial encompasses the fundamentals of Excel.
 
 Home, Introduction, Get Started, Overview, Syntax, Ranges, Fill, Move Cells, Add Cells, Delete Cells, Undo Redo, Formulas, Relative Reference, Absolute Reference, Arithmetic Operators, Parentheses, Functions
 
-FORMATTING
-Formatting
-Format Painter
-Format Colors
-Format Fonts
-Format Borders
-Format Numbers
-Format Grids
-Format Settings
+- FORMATTING
 
-EXCEL DATA ANALYSIS
-Excel Sort
-Excel Filter
-Excel Tables
-Excel Conditional Format
-Excel Highlight Cell Rules
-Excel Top Bottom Rules
-Excel Data Bars
-Excel Color Scales
-Excel Icon Sets
-Excel Manage Rules (CF)
-Excel Charts
+Formatting, Painter, Colors, Fonts, Borders, Numbers, Grids, Settings
 
-TABLE PIVOT
+- EXCEL DATA ANALYSIS
+Sort, Filter, Tables, Conditional Format, Highlight Cell Rules, Top Bottom Rules, Data Bars, Color Scales, Icon Sets, Manage Rules (CF), Charts
+
+- TABLE PIVOT
+
 Table Pivot Intro
 
-EXCEL FUNCTIONS
-AND
-AVERAGE
-AVERAGEIF
-AVERAGEIFS
-CONCAT
-COUNT
-COUNTA
-COUNTBLANK
-COUNTIF
-COUNTIFS
-IF
-IFS
-LEFT
-LOWER
+- EXCEL FUNCTIONS
+
+AND, AVERAGE, AVERAGEIF,  AVERAGEIFS, CONCAT, COUNT, COUNTA, COUNTBLANK, COUNTIF, COUNTIFS, IF, IFS, LEFT, LOWER
 MAX
 MEDIAN
 MIN
