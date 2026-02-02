@@ -36,6 +36,7 @@ Convert Time to Seconds, Difference Between Times, NPV (Net Present Value), Remo
 - EXCEL CASE
 
 Case: Poke Mart
+
 Case: Poke Mart, Styling
 
 ![image alt](https://github.com/aaliyeah/Learnings/blob/860bdff5f4955b691bdb98e529c68f374fbc6a4c/Excel%20Case.jpg)
